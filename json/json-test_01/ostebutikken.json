@@ -1,0 +1,39 @@
+{
+    "brainsOsteutik": {
+        "varer": [
+            {
+                "varenummer": 543,
+                "varenavn": "ostehaps",
+                "pris": {
+                    "pris": 50,
+                    "valuta": "dkk"
+                },
+                "antal": 25,
+                "beskrivelse": "Søde og sure ostehapsere!",
+                "lagerBeholdning": 2345,
+                "billede": [
+                    "lillebror.jpg",
+                    "lillebrorEmbalage.jpg"
+                ],
+                "tilbud": true
+            },
+
+            {
+                "varenummer": 783,
+                "varenavn": "ost",
+                "pris": {
+                    "pris": 20,
+                    "valuta": "euro"
+                },
+                "antal": 2,
+                "beskrivelse": "Muggen ost",
+                "lagerBeholdning": 25,
+                "billede": [
+                    "ost1.jpg",
+                    "ost2.jpg"
+                ],
+                "tilbud": false
+            }
+        ]
+    }
+}
