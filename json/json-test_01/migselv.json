@@ -1,0 +1,82 @@
+{
+    "William": {
+        "personelig": {
+            "navn": {
+                "fornavn": "William",
+                "mellemnavn": "Johan",
+                "efternavn": "Deckmann"
+            },
+            "køn": "mand",
+            "alder": 17,
+            "højde": [
+                {
+                    "højde": 172,
+                    "måleenhed": "cm"
+                },
+                {
+                    "højde": 1720,
+                    "måleenhed": "mm"
+                }
+            ],
+            "øjnfarve": "blå",
+            "hårfave": "brun"
+        },
+
+        "contact": {
+            "mail": {
+
+            },
+            "tlf.": {
+                "tlf.": 31661064,
+                "land": 45
+            }
+        },
+
+        "tøj": {
+            "sko": {
+                "størelse": [
+                    {
+                        "størelse": 43,
+                        "måleenhed": "uk"
+                    },
+                    {
+                        "størelse": 9,
+                        "måleenhed": "us"
+                    }
+                ],
+                "type": "lædersko",
+                "farve": "mørkebrun"
+            },
+            "strømper": {
+                "størelse": [
+                    {
+                        "størelse": 43,
+                        "måleenhed": "uk"
+                    },
+                    {
+                        "størelse": 9,
+                        "måleenhed": "us"
+                    }
+                ],
+                "måleenhed": "uk",
+                "farve": "hvid"
+            },
+            "bukser": {
+                "størelse": "medium",
+                "farve": "gråbrun"
+            },
+            "bælte": {
+                "type": "læderbælte",
+                "farve": "mørkebrun"
+            },
+            "skjorte": {
+                "størelse": "medium",
+                "farve": "blå",
+                "møsnter": {
+                    "mønster": true,
+                    "mønstertype": "blåstribet"
+                }
+            }
+        }
+    }
+}

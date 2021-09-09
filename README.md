@@ -1,1 +1,1 @@
-# This is for all my sandbox projects
+# This repository dedicated to all my sandbox projects
